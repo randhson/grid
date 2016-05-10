@@ -1,0 +1,5 @@
+<div class="carousel-inner" id="imgP">
+    <div class="item active">
+     <img class="img-responsive" src="img/pnovo1.jpg" alt="">
+     </div>
+ </div>
